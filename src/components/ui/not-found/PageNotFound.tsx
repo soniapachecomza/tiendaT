@@ -16,7 +16,7 @@ export const PageNotFound = () => {
       </div>
 
       <div className="px-5 mx-5">
-        <Image src="/public/imgs/mantenimiento1" alt="" className='p-5 sm:p-0' width={550} height={550}/>
+        <Image src="/imgs/mantenimiento1.png " alt="mantenimiento" className='p-5 sm:p-0' width={350} height={350}/>
       </div>
     </div>
   )
